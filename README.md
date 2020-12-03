@@ -1,3 +1,13 @@
+# Veja como vizualizar este projeto!
+
+ Clone o repositório através do terminal
+  * `git clone https://github.com/tryber/sd-06-project-facebook-signup.git`.
+  * Entre na pasta do repositório que você acabou de clonar:
+    * sd-06-project-facebook-signup
+  * Abra o arquivo index.html no seu navegador
+
+## Readme de como o projeto foi feito
+
 # Boas vindas ao repositório do projeto de réplica da página de cadastro do Facebook!
 
 Você já usa o GitHub diariamente para desenvolver os exercícios, certo? Agora, para desenvolver os projetos, você deverá seguir as instruções a seguir. Fique atento a cada passo, e se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀
